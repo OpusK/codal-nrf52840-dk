@@ -48,8 +48,8 @@
         },
         {
             "name":"codal-nrf52",
-            "url":"https://github.com/lancaster-university/codal-nrf52",
-            "branch":"master",
+            "url":"https://github.com/OpusK/codal-nrf52",
+            "branch":"develop",
             "type":"git"
         }
     ]
